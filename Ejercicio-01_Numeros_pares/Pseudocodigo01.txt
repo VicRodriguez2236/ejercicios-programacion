@@ -1,0 +1,7 @@
+Inicio
+Inicializar Numero a 0
+	Mientras Numero menor que 100
+		Sumar 2 a Numero
+		Imprimir Numero
+		
+Fin

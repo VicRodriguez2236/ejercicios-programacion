@@ -1,0 +1,9 @@
+Inicio
+    Inicializar ladoIngresado
+    Inicializar perimetro
+    Imprimir "Ingrese la longitud de uno de los lados del triangulo"
+    Leer valor ingresado
+    Asignar valor a ladoIngresado
+    Asignar perimetro = lado * 3
+    Imprimir "El perímetro del triángulo es...", perimetro
+Fin

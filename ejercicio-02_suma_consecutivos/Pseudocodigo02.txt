@@ -1,0 +1,15 @@
+Inicio
+    numeroIngresado = 0
+    suma = 0
+    Imprimir "Ingrese un numero entre el 1 y el 50"
+    Guardar el valor ingresado en la varaible numero
+    Si "numero" es mayor o igual a 1 y "numero" es menor o igual a 50, entonces
+        Dar a "suma" el valor de "numero"
+        Guardar en "numero" su valor actual menos 1
+        Para "numero" cuando es mayor o igual a 1, hacer
+            "suma" es igual a "suma" más "numero"
+            Restar 1 a "numero"
+        Imprimir "La suma del 1 hasta el valor ingresado es igual a", suma
+    Si no, entonces
+        Imprimir "Su numero no esta dentro del rango de 1 y 50"
+Fin

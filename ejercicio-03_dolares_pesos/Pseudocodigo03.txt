@@ -1,0 +1,7 @@
+Inicio
+	Declarar dolaresIngresados igual a 0
+	imprimir "Dolares a Convertir"
+	guardar valor en dolaresIngresados
+	Declarar conversionPeso igual a dolaresIngresados * 20
+	Imprimir  dolaresIngresados + " USD es igual a " + conversionPeso + " pesos mxn"
+Fin

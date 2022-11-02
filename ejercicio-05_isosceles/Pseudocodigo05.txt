@@ -1,0 +1,29 @@
+Inicio
+    inicializar variable base
+    inicializar variable lado1
+    inicializar variable lado2
+    
+    Imprimir "Ingresa la medida de la base"
+    leer valor ingresado 
+    asignar valor a base
+
+    Imprimir "Ingresa la medida del primer lado"
+    leer valor ingresado 
+    asignar valor a lado1
+
+    Imprimir "Ingresa la medida del segundo lado"
+    leer valor ingresado
+    asignar valor a lado2
+
+    Si (base igual a lado1 Y base igual a lado2) hacer
+           imprimir "Las medidas que has ingresado no corresponden a un triangulo isóceles"
+           
+    sino hacer
+    		Si (lado1 == lado2) hacer
+    			declarar variable perimetro = base + lado1 + lado 2
+    			imprimir "El perimetro del triangulo es: " + perimetro
+
+    		sino hacer
+    			imprimir "Las medidas que has ingresado no corresponden a un triangulo isóceles"
+    
+Fin
